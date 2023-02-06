@@ -1,3 +1,30 @@
+<html>
+  <head>
+    <style>
+      .banner {
+        background-color: #333;
+        color: #fff;
+        text-align: center;
+        padding: 20px;
+      }
+      .banner h1 {
+        font-size: 48px;
+        margin-bottom: 20px;
+      }
+      .banner p {
+        font-size: 24px;
+        margin-bottom: 20px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="banner">
+      <h1>Software Developer</h1>
+      <p>Building innovative and intuitive software solutions that drive businesses forward</p>
+    </div>
+  </body>
+</html>
+
 <h1 align="center">Hi 👋, I'm memedlebleu</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
 - 📫 How to reach me **ahmedlebleu1@gmail.com**
