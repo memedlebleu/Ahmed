@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/vOfmcVd-haMAAAAC/code-purpose-of-life.gif">
+  <img src="https://pfps.gg/assets/banners/2241-matrix-rain.gif">
 </p>
 
 <h1 align="center">Hi 👋, I'm memedlebleu</h1>
