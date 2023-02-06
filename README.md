@@ -1,15 +1,14 @@
 
-![Binary Code GIF](https://media.tenor.com/vOfmcVd-haMAAAAC/code-purpose-of-life.gif)
+<h1 align="center">![Binary Code GIF](https://media.tenor.com/vOfmcVd-haMAAAAC/code-purpose-of-life.gif)
 
+<h1 align="center">Hi 👋, I'm memedlebleu</h1>
+<h3 align="center">A passionate frontend developer from Morocco</h3>
+- 📫 How to reach me **ahmedlebleu1@gmail.com**
 I am a software developer with a passion for creating innovative and efficient solutions to real-world problems. I have experience in a variety of programming languages and technologies, and I am always eager to learn more.
 
 My GitHub repository showcases my personal projects, contributions to open-source projects, and a few of my favorite coding resources. Feel free to explore my work, and don't hesitate to reach out if you have any questions or would like to collaborate.
 
 Description of your software project goes here.
-
-<h1 align="center">Hi 👋, I'm memedlebleu</h1>
-<h3 align="center">A passionate frontend developer from Morocco</h3>
-- 📫 How to reach me **ahmedlebleu1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
