@@ -1,6 +1,9 @@
-# Software Banner
 
-[![Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fbinary-code-gif-gifs&psig=AOvVaw1fweOd_l7K4zCf3y3tUOLx&ust=1675741553348000&source=images&cd=vfe&ved=0CA8QjRxqGAoTCIjhsJD-__wCFQAAAAAdAAAAABCBAQ)](project-url)
+![Binary Code GIF](https://media.tenor.com/images/eddd07f07d6a7cf0e9c6b8e724ea3600/tenor.gif)
+
+I am a software developer with a passion for creating innovative and efficient solutions to real-world problems. I have experience in a variety of programming languages and technologies, and I am always eager to learn more.
+
+My GitHub repository showcases my personal projects, contributions to open-source projects, and a few of my favorite coding resources. Feel free to explore my work, and don't hesitate to reach out if you have any questions or would like to collaborate.
 
 Description of your software project goes here.
 
