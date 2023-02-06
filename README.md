@@ -27,7 +27,6 @@ Feel free to explore my work, and don't hesitate to reach out if you have any qu
 ![memedlebleu's GitHub stats](https://github-readme-stats.vercel.app/api?username=memedlebleu&show_icons=true&theme=transparent)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=memedlebleu&show_icons=true&locale=en&layout=compact" alt="memedlebleu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=memedlebleu&show_icons=true&locale=en" alt="memedlebleu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=memedlebleu&" alt="memedlebleu" /></p>
 
