@@ -31,3 +31,4 @@ Feel free to explore my work, and don't hesitate to reach out if you have any qu
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=memedlebleu&" alt="memedlebleu" /></p>
 
+[![memedlebleu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?memedlebleu=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
