@@ -12,9 +12,9 @@ My GitHub repository showcases my personal projects, contributions to open-sourc
 Feel free to explore my work, and don't hesitate to reach out if you have any questions or would like to collaborate.
 
 - 🌱 I’m currently learning DataBase administration, Networking, System Administration, APP Development and Programming.
-- 💬 Ask me about SSMS, AD DS, Html, CiscoPKA.   ![alt text](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)
-
+- 💬 Ask me about SSMS, AD DS, Html, CiscoPKA.
 - 📫 How to reach me **ahmedlebleu1@gmail.com**
+![image](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif){:style="float:left;"}
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
