@@ -11,7 +11,8 @@ I have experience in a variety of programming languages and technologies, and I 
 My GitHub repository showcases my personal projects, contributions to open-source projects, and a few of my favorite coding resources.
 Feel free to explore my work, and don't hesitate to reach out if you have any questions or would like to collaborate.
 
-
+- 🌱 I’m currently learning DataBase administration, Networking, System Administration, APP Development and Programming.
+- 💬 Ask me about SSMS, AD DS, Html, CiscoPKA.
 - 📫 How to reach me **ahmedlebleu1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -31,4 +32,3 @@ Feel free to explore my work, and don't hesitate to reach out if you have any qu
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=memedlebleu&" alt="memedlebleu" /></p>
 
-[![memedlebleu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?memedlebleu=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
