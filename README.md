@@ -1,6 +1,8 @@
-<p align="center">
-  <img src="image-url-here" alt="Banner">
-</p>
+# Software Banner
+
+[![Banner](image-url.jpg)](project-url)
+
+Description of your software project goes here.
 
 <h1 align="center">Hi 👋, I'm memedlebleu</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
