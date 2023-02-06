@@ -1,6 +1,6 @@
 # Software Banner
 
-[![Banner](image-url.jpg)](project-url)
+[![Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fbinary-code-gif-gifs&psig=AOvVaw1fweOd_l7K4zCf3y3tUOLx&ust=1675741553348000&source=images&cd=vfe&ved=0CA8QjRxqGAoTCIjhsJD-__wCFQAAAAAdAAAAABCBAQ)](project-url)
 
 Description of your software project goes here.
 
