@@ -1,5 +1,5 @@
 
-![Binary Code GIF](https://media.tenor.com/images/eddd07f07d6a7cf0e9c6b8e724ea3600/tenor.gif)
+![Binary Code GIF](https://media.tenor.com/Z_Ah8rkdZ4YAAAAC/walking-code.gif)
 
 I am a software developer with a passion for creating innovative and efficient solutions to real-world problems. I have experience in a variety of programming languages and technologies, and I am always eager to learn more.
 
