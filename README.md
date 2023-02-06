@@ -10,13 +10,14 @@ I have experience in a variety of programming languages and technologies, and I 
 
 My GitHub repository showcases my personal projects, contributions to open-source projects, and a few of my favorite coding resources.
 Feel free to explore my work, and don't hesitate to reach out if you have any questions or would like to collaborate.
-<p align="right">
-  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="50%">
-</p>
+
+
 - 🌱 I’m currently learning DataBase administration, Networking, System Administration, APP Development and Programming.
 - 💬 Ask me about SSMS, AD DS, Html, CiscoPKA.
 - 📫 How to reach me **ahmedlebleu1@gmail.com**
-
+<p align="right">
+  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="50%">
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ahmedlazrek3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmedlazrek3" height="30" width="40" /></a>
