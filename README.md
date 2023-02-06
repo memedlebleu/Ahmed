@@ -1,5 +1,8 @@
 
 <h1 align="center">![Binary Code GIF](https://media.tenor.com/vOfmcVd-haMAAAAC/code-purpose-of-life.gif)
+<p align="center">
+  <img src="https://media.tenor.com/vOfmcVd-haMAAAAC/code-purpose-of-life.gif">
+</p>
 
 <h1 align="center">Hi 👋, I'm memedlebleu</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
